@@ -20,7 +20,7 @@ We would like to recap the Authentication and Authorization section by restating
 
 ### Authorization
 
-- [CanCanCan](https://github.com/plataformatec/devise)
+- [CanCanCan](https://github.com/CanCanCommunity/cancancan)
 - [Pundit](https://github.com/varvet/pundit)
 
 You can browse the [Ruby Toolbox](https://www.ruby-toolbox.com/) for more Authentication and Authorization gem options.
